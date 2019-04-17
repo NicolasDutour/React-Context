@@ -1,6 +1,4 @@
-How to use it:
+Try-React-Context
 
-- git clone the project
-- cd "the name of the project"
-- npm install
-- npm start
+1. npm install
+2. npm start
